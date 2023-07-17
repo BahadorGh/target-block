@@ -10,9 +10,9 @@
   "author": "Bahador Gh <> (https://Tokenkhan.com)",
   "keywords": ["hardhat", "blockchain", "web3", "ethereum", "defi", "dapp"],
   "bugs": {
-    "url": "https://github.com/BahadorGh/targetblock/issues"
+    "url": "https://github.com/BahadorGh/target-block/issues"
   },
-  "homepage": "https://github.com/BahadorGh/targetblock#readme",
+  "homepage": "https://github.com/BahadorGh/target-block#readme",
   "license": "MIT",
   "dependencies": {
     "ethers": "^5.7.2"
