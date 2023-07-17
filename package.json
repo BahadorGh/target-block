@@ -1,0 +1,23 @@
+{
+  "name": "target-block",
+  "version": "1.0.0",
+  "description": "A module to help waiting for specific block number(block confirmations)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "echo 'Nothing to build'"
+  },
+  "author": "Bahador Gh <> (https://Tokenkhan.com)",
+  "keywords": ["hardhat", "blockchain", "web3", "ethereum", "defi", "dapp"],
+  "bugs": {
+    "url": "https://github.com/BahadorGh/targetblock/issues"
+  },
+  "homepage": "https://github.com/BahadorGh/targetblock#readme",
+  "license": "MIT",
+  "dependencies": {
+    "ethers": "^5.7.2"
+  },
+  "peerDependencies": {
+    "ethers": "^5.7.2"
+  }
+}
